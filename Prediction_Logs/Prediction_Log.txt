@@ -764,3 +764,27 @@
 2022-02-24/00:03:12		Entered the load_model method of the File_Operation class
 2022-02-24/00:03:13		Model File XGBoost1 loaded. Exited the load_model method of the Model_Finder class
 2022-02-24/00:03:13		End of Prediction
+2022-02-24/01:02:14		Start of Prediction
+2022-02-24/01:02:14		Entered the get_data method of the Data_Getter class
+2022-02-24/01:02:15		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-02-24/01:02:15		Entered the remove_columns method of the Preprocessor class
+2022-02-24/01:02:15		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2022-02-24/01:02:15		Entered the is_null_present method of the Preprocessor class
+2022-02-24/01:02:15		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-02-24/01:02:15		Entered the encode_categorical_columns method of the Preprocessor class
+2022-02-24/01:02:15		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-02-24/01:02:15		Entered the load_model method of the File_Operation class
+2022-02-24/01:02:15		Model File XGBoost1 loaded. Exited the load_model method of the Model_Finder class
+2022-02-24/01:02:15		End of Prediction
+2022-02-24/01:02:27		Start of Prediction
+2022-02-24/01:02:27		Entered the get_data method of the Data_Getter class
+2022-02-24/01:02:27		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-02-24/01:02:27		Entered the remove_columns method of the Preprocessor class
+2022-02-24/01:02:27		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2022-02-24/01:02:27		Entered the is_null_present method of the Preprocessor class
+2022-02-24/01:02:27		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-02-24/01:02:27		Entered the encode_categorical_columns method of the Preprocessor class
+2022-02-24/01:02:27		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-02-24/01:02:27		Entered the load_model method of the File_Operation class
+2022-02-24/01:02:27		Model File XGBoost1 loaded. Exited the load_model method of the Model_Finder class
+2022-02-24/01:02:28		End of Prediction
