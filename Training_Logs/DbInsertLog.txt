@@ -1,0 +1,26 @@
+2022-02-21/20:51:07		Error while creating table: near "01": syntax error
+2022-02-21/20:51:07		File Moved Successfully airQuality_28011960_120210.csv
+2022-02-21/20:55:45		Error while creating table: near "01": syntax error 
+2022-02-21/20:55:45		File Moved Successfully airQuality_28011960_120210.csv
+2022-02-21/20:57:29		Error while creating table: near "01": syntax error 
+2022-02-21/20:57:29		File Moved Successfully airQuality_28011960_120210.csv
+2022-02-21/22:12:53		Error while creating table: near "01": syntax error 
+2022-02-21/22:12:53		File Moved Successfully airQuality_28011960_120210.csv
+2022-02-21/22:20:27		Error while creating table: near "01": syntax error 
+2022-02-21/22:20:27		File Moved Successfully airQuality_28011960_120210.csv
+2022-02-21/22:21:57		Error while creating 123 table: near "01": syntax error 
+2022-02-21/22:21:57		File Moved Successfully airQuality_28011960_120210.csv
+2022-02-21/22:24:54		Error while creating 123 table: near "01": syntax error 
+2022-02-21/22:24:54		File Moved Successfully airQuality_28011960_120210.csv
+2022-02-21/22:28:14		Error while creating 123 table: near "01": syntax error 
+2022-02-21/22:28:14		File Moved Successfully airQuality_28011960_120210.csv
+2022-02-21/22:31:44		Error while creating table: near "01": syntax error 
+2022-02-21/22:31:44		File Moved Successfully airQuality_28011960_120210.csv
+2022-02-22/13:57:31		Error while creating table: near "01": syntax error 
+2022-02-22/13:57:31		File Moved Successfully airQuality_28011960_120210.csv
+2022-02-22/17:27:04		Error while creating table: near "01": syntax error 
+2022-02-22/17:27:04		File Moved Successfully airQuality_28011960_120210.csv
+2022-02-22/18:30:48		Error while creating table: near "03": syntax error 
+2022-02-22/18:30:48		File Moved Successfully airQuality_28011961_120211.csv
+2022-02-22/18:36:19		Error while creating table: near "04": syntax error 
+2022-02-22/18:36:19		File Moved Successfully airQuality_28011962_120212.csv

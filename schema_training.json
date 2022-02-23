@@ -1,0 +1,23 @@
+{	"SampleFileName": "airQuality_021119920_010222.csv",
+	"LengthOfDateStampInFile": 8,
+	"LengthOfTimeStampInFile": 6,
+	"NumberofColumns" : 16,
+	"ColName": {
+		"City" : "object",
+		"Datetime": "object",
+		"PM2.5": "float64",
+		"PM10": "float64",
+		"NO": "float64",
+		"NO2": "float64",
+		"NOx": "float64",
+		"NH3": "float64",
+		"CO": "float64",
+		"SO2": "float64",
+		"O3" : "float64",
+		"Benzene": "float64",
+		"Toluene": "float64",
+		"Xylene": "float64",
+		"AQI": "float64",
+		"AQI_Bucket": "object"
+	}
+}

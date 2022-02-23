@@ -1,0 +1,1312 @@
+2020-02-19/16:24:00		Invalid File Name!! File moved to Bad Raw Folder :: creditCardFraud_021119920_010222.xls
+2020-02-19/16:25:02		Invalid File Name!! File moved to Bad Raw Folder :: creditCardFraud_021119920_010222.xls
+2020-02-19/16:37:15		Valid File name!! File moved to GoodRaw Folder :: creditCardFraud_021119920_010222.csv
+2020-02-19/16:50:10		Valid File name!! File moved to GoodRaw Folder :: creditCardFraud_021119920_010222.csv
+2020-02-19/16:53:17		Valid File name!! File moved to GoodRaw Folder :: creditCardFraud_021119920_010222.csv
+2020-02-19/17:47:57		Valid File name!! File moved to GoodRaw Folder :: creditCardFraud_021119920_010222.csv
+2020-02-19/18:49:21		Valid File name!! File moved to GoodRaw Folder :: creditCardFraud_021119920_010222.csv
+2020-02-19/18:50:04		Valid File name!! File moved to GoodRaw Folder :: creditCardFraud_021119920_010222.csv
+2022-02-21/18:51:31		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011960_120210.csv
+2022-02-21/18:51:32		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011961_120211.csv
+2022-02-21/18:51:32		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011962_120212.csv
+2022-02-21/18:51:32		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011963_120213.csv
+2022-02-21/18:51:32		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011964_120214.csv
+2022-02-21/18:51:32		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011965_120215.csv
+2022-02-21/18:51:32		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011966_120216.csv
+2022-02-21/18:51:32		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011967_120217.csv
+2022-02-21/18:51:32		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011968_120218.csv
+2022-02-21/18:51:32		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011969_120219.csv
+2022-02-21/18:51:32		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011970_120220.csv
+2022-02-21/18:51:32		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011971_120221.csv
+2022-02-21/18:51:32		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011972_120222.csv
+2022-02-21/18:51:32		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011973_120223.csv
+2022-02-21/18:51:32		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011974_120224.csv
+2022-02-21/18:51:32		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011975_120225.csv
+2022-02-21/18:51:32		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011976_120226.csv
+2022-02-21/18:51:32		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011977_120227.csv
+2022-02-21/18:51:32		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011978_120228.csv
+2022-02-21/18:51:32		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011979_120229.csv
+2022-02-21/18:51:32		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011980_120230.csv
+2022-02-21/18:51:32		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011981_120231.csv
+2022-02-21/18:51:33		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011982_120232.csv
+2022-02-21/18:51:33		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011983_120233.csv
+2022-02-21/18:51:33		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011984_120234.csv
+2022-02-21/18:51:33		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011985_120235.csv
+2022-02-21/18:51:33		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011986_120236.csv
+2022-02-21/18:51:33		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011987_120237.csv
+2022-02-21/18:51:33		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011988_120238.csv
+2022-02-21/18:51:33		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011989_120239.csv
+2022-02-21/18:51:33		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011990_120240.csv
+2022-02-21/18:51:33		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011991_120241.csv
+2022-02-21/18:51:33		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011992_120242.csv
+2022-02-21/18:51:33		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011993_120243.csv
+2022-02-21/18:51:33		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011994_120244.csv
+2022-02-21/18:51:33		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011995_120245.csv
+2022-02-21/18:51:33		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011996_120246.csv
+2022-02-21/18:51:33		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011997_120247.csv
+2022-02-21/18:51:33		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011998_120248.csv
+2022-02-21/18:51:33		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011999_120249.csv
+2022-02-21/18:51:33		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012000_120250.csv
+2022-02-21/18:51:33		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012001_120251.csv
+2022-02-21/18:51:33		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012002_120252.csv
+2022-02-21/18:51:33		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012003_120253.csv
+2022-02-21/18:51:33		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012004_120254.csv
+2022-02-21/18:51:33		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012005_120255.csv
+2022-02-21/18:51:33		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012006_120256.csv
+2022-02-21/18:51:33		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012007_120257.csv
+2022-02-21/18:51:33		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012008_120258.csv
+2022-02-21/18:51:33		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012009_120259.csv
+2022-02-21/18:54:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011960_120210.csv
+2022-02-21/18:54:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011961_120211.csv
+2022-02-21/18:54:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011962_120212.csv
+2022-02-21/18:54:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011963_120213.csv
+2022-02-21/18:54:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011964_120214.csv
+2022-02-21/18:54:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011965_120215.csv
+2022-02-21/18:54:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011966_120216.csv
+2022-02-21/18:54:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011967_120217.csv
+2022-02-21/18:54:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011968_120218.csv
+2022-02-21/18:54:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011969_120219.csv
+2022-02-21/18:54:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011970_120220.csv
+2022-02-21/18:54:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011971_120221.csv
+2022-02-21/18:54:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011972_120222.csv
+2022-02-21/18:54:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011973_120223.csv
+2022-02-21/18:54:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011974_120224.csv
+2022-02-21/18:54:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011975_120225.csv
+2022-02-21/18:54:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011976_120226.csv
+2022-02-21/18:54:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011977_120227.csv
+2022-02-21/18:54:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011978_120228.csv
+2022-02-21/18:54:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011979_120229.csv
+2022-02-21/18:54:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011980_120230.csv
+2022-02-21/18:54:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011981_120231.csv
+2022-02-21/18:54:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011982_120232.csv
+2022-02-21/18:54:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011983_120233.csv
+2022-02-21/18:54:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011984_120234.csv
+2022-02-21/18:54:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011985_120235.csv
+2022-02-21/18:54:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011986_120236.csv
+2022-02-21/18:54:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011987_120237.csv
+2022-02-21/18:54:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011988_120238.csv
+2022-02-21/18:54:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011989_120239.csv
+2022-02-21/18:54:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011990_120240.csv
+2022-02-21/18:54:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011991_120241.csv
+2022-02-21/18:54:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011992_120242.csv
+2022-02-21/18:54:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011993_120243.csv
+2022-02-21/18:54:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011994_120244.csv
+2022-02-21/18:54:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011995_120245.csv
+2022-02-21/18:54:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011996_120246.csv
+2022-02-21/18:54:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011997_120247.csv
+2022-02-21/18:54:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011998_120248.csv
+2022-02-21/18:54:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011999_120249.csv
+2022-02-21/18:54:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012000_120250.csv
+2022-02-21/18:54:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012001_120251.csv
+2022-02-21/18:54:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012002_120252.csv
+2022-02-21/18:54:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012003_120253.csv
+2022-02-21/18:54:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012004_120254.csv
+2022-02-21/18:54:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012005_120255.csv
+2022-02-21/18:54:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012006_120256.csv
+2022-02-21/18:54:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012007_120257.csv
+2022-02-21/18:54:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012008_120258.csv
+2022-02-21/18:54:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012009_120259.csv
+2022-02-21/18:57:04		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011960_120210.csv
+2022-02-21/18:57:04		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011961_120211.csv
+2022-02-21/18:57:04		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011962_120212.csv
+2022-02-21/18:57:04		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011963_120213.csv
+2022-02-21/18:57:04		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011964_120214.csv
+2022-02-21/18:57:04		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011965_120215.csv
+2022-02-21/18:57:04		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011966_120216.csv
+2022-02-21/18:57:04		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011967_120217.csv
+2022-02-21/18:57:04		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011968_120218.csv
+2022-02-21/18:57:04		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011969_120219.csv
+2022-02-21/18:57:04		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011970_120220.csv
+2022-02-21/18:57:04		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011971_120221.csv
+2022-02-21/18:57:04		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011972_120222.csv
+2022-02-21/18:57:04		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011973_120223.csv
+2022-02-21/18:57:04		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011974_120224.csv
+2022-02-21/18:57:04		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011975_120225.csv
+2022-02-21/18:57:04		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011976_120226.csv
+2022-02-21/18:57:04		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011977_120227.csv
+2022-02-21/18:57:04		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011978_120228.csv
+2022-02-21/18:57:04		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011979_120229.csv
+2022-02-21/18:57:04		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011980_120230.csv
+2022-02-21/18:57:04		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011981_120231.csv
+2022-02-21/18:57:04		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011982_120232.csv
+2022-02-21/18:57:04		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011983_120233.csv
+2022-02-21/18:57:04		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011984_120234.csv
+2022-02-21/18:57:04		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011985_120235.csv
+2022-02-21/18:57:04		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011986_120236.csv
+2022-02-21/18:57:04		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011987_120237.csv
+2022-02-21/18:57:04		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011988_120238.csv
+2022-02-21/18:57:04		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011989_120239.csv
+2022-02-21/18:57:04		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011990_120240.csv
+2022-02-21/18:57:04		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011991_120241.csv
+2022-02-21/18:57:04		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011992_120242.csv
+2022-02-21/18:57:04		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011993_120243.csv
+2022-02-21/18:57:04		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011994_120244.csv
+2022-02-21/18:57:04		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011995_120245.csv
+2022-02-21/18:57:04		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011996_120246.csv
+2022-02-21/18:57:04		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011997_120247.csv
+2022-02-21/18:57:04		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011998_120248.csv
+2022-02-21/18:57:04		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011999_120249.csv
+2022-02-21/18:57:04		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012000_120250.csv
+2022-02-21/18:57:04		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012001_120251.csv
+2022-02-21/18:57:04		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012002_120252.csv
+2022-02-21/18:57:04		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012003_120253.csv
+2022-02-21/18:57:04		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012004_120254.csv
+2022-02-21/18:57:04		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012005_120255.csv
+2022-02-21/18:57:04		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012006_120256.csv
+2022-02-21/18:57:04		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012007_120257.csv
+2022-02-21/18:57:04		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012008_120258.csv
+2022-02-21/18:57:04		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012009_120259.csv
+2022-02-21/18:58:28		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011960_120210.csv
+2022-02-21/18:58:28		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011961_120211.csv
+2022-02-21/18:58:28		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011962_120212.csv
+2022-02-21/18:58:28		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011963_120213.csv
+2022-02-21/18:58:28		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011964_120214.csv
+2022-02-21/18:58:28		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011965_120215.csv
+2022-02-21/18:58:28		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011966_120216.csv
+2022-02-21/18:58:28		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011967_120217.csv
+2022-02-21/18:58:28		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011968_120218.csv
+2022-02-21/18:58:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011969_120219.csv
+2022-02-21/18:58:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011970_120220.csv
+2022-02-21/18:58:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011971_120221.csv
+2022-02-21/18:58:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011972_120222.csv
+2022-02-21/18:58:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011973_120223.csv
+2022-02-21/18:58:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011974_120224.csv
+2022-02-21/18:58:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011975_120225.csv
+2022-02-21/18:58:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011976_120226.csv
+2022-02-21/18:58:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011977_120227.csv
+2022-02-21/18:58:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011978_120228.csv
+2022-02-21/18:58:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011979_120229.csv
+2022-02-21/18:58:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011980_120230.csv
+2022-02-21/18:58:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011981_120231.csv
+2022-02-21/18:58:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011982_120232.csv
+2022-02-21/18:58:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011983_120233.csv
+2022-02-21/18:58:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011984_120234.csv
+2022-02-21/18:58:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011985_120235.csv
+2022-02-21/18:58:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011986_120236.csv
+2022-02-21/18:58:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011987_120237.csv
+2022-02-21/18:58:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011988_120238.csv
+2022-02-21/18:58:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011989_120239.csv
+2022-02-21/18:58:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011990_120240.csv
+2022-02-21/18:58:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011991_120241.csv
+2022-02-21/18:58:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011992_120242.csv
+2022-02-21/18:58:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011993_120243.csv
+2022-02-21/18:58:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011994_120244.csv
+2022-02-21/18:58:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011995_120245.csv
+2022-02-21/18:58:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011996_120246.csv
+2022-02-21/18:58:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011997_120247.csv
+2022-02-21/18:58:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011998_120248.csv
+2022-02-21/18:58:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011999_120249.csv
+2022-02-21/18:58:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012000_120250.csv
+2022-02-21/18:58:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012001_120251.csv
+2022-02-21/18:58:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012002_120252.csv
+2022-02-21/18:58:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012003_120253.csv
+2022-02-21/18:58:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012004_120254.csv
+2022-02-21/18:58:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012005_120255.csv
+2022-02-21/18:58:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012006_120256.csv
+2022-02-21/18:58:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012007_120257.csv
+2022-02-21/18:58:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012008_120258.csv
+2022-02-21/18:58:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012009_120259.csv
+2022-02-21/19:01:27		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011960_120210.csv
+2022-02-21/19:01:27		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011961_120211.csv
+2022-02-21/19:01:27		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011962_120212.csv
+2022-02-21/19:01:27		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011963_120213.csv
+2022-02-21/19:01:27		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011964_120214.csv
+2022-02-21/19:01:27		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011965_120215.csv
+2022-02-21/19:01:27		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011966_120216.csv
+2022-02-21/19:01:27		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011967_120217.csv
+2022-02-21/19:01:27		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011968_120218.csv
+2022-02-21/19:01:27		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011969_120219.csv
+2022-02-21/19:01:27		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011970_120220.csv
+2022-02-21/19:01:27		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011971_120221.csv
+2022-02-21/19:01:27		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011972_120222.csv
+2022-02-21/19:01:27		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011973_120223.csv
+2022-02-21/19:01:27		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011974_120224.csv
+2022-02-21/19:01:27		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011975_120225.csv
+2022-02-21/19:01:27		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011976_120226.csv
+2022-02-21/19:01:27		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011977_120227.csv
+2022-02-21/19:01:27		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011978_120228.csv
+2022-02-21/19:01:27		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011979_120229.csv
+2022-02-21/19:01:27		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011980_120230.csv
+2022-02-21/19:01:27		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011981_120231.csv
+2022-02-21/19:01:27		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011982_120232.csv
+2022-02-21/19:01:27		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011983_120233.csv
+2022-02-21/19:01:27		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011984_120234.csv
+2022-02-21/19:01:27		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011985_120235.csv
+2022-02-21/19:01:27		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011986_120236.csv
+2022-02-21/19:01:27		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011987_120237.csv
+2022-02-21/19:01:27		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011988_120238.csv
+2022-02-21/19:01:27		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011989_120239.csv
+2022-02-21/19:01:27		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011990_120240.csv
+2022-02-21/19:01:27		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011991_120241.csv
+2022-02-21/19:01:27		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011992_120242.csv
+2022-02-21/19:01:27		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011993_120243.csv
+2022-02-21/19:01:27		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011994_120244.csv
+2022-02-21/19:01:27		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011995_120245.csv
+2022-02-21/19:01:27		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011996_120246.csv
+2022-02-21/19:01:27		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011997_120247.csv
+2022-02-21/19:01:27		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011998_120248.csv
+2022-02-21/19:01:27		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011999_120249.csv
+2022-02-21/19:01:27		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012000_120250.csv
+2022-02-21/19:01:27		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012001_120251.csv
+2022-02-21/19:01:27		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012002_120252.csv
+2022-02-21/19:01:28		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012003_120253.csv
+2022-02-21/19:01:28		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012004_120254.csv
+2022-02-21/19:01:28		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012005_120255.csv
+2022-02-21/19:01:28		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012006_120256.csv
+2022-02-21/19:01:28		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012007_120257.csv
+2022-02-21/19:01:28		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012008_120258.csv
+2022-02-21/19:01:28		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012009_120259.csv
+2022-02-21/19:04:18		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011960_120210.csv
+2022-02-21/19:04:18		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011961_120211.csv
+2022-02-21/19:04:18		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011962_120212.csv
+2022-02-21/19:04:18		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011963_120213.csv
+2022-02-21/19:04:18		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011964_120214.csv
+2022-02-21/19:04:18		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011965_120215.csv
+2022-02-21/19:04:18		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011966_120216.csv
+2022-02-21/19:04:18		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011967_120217.csv
+2022-02-21/19:04:18		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011968_120218.csv
+2022-02-21/19:04:18		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011969_120219.csv
+2022-02-21/19:04:18		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011970_120220.csv
+2022-02-21/19:04:18		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011971_120221.csv
+2022-02-21/19:04:18		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011972_120222.csv
+2022-02-21/19:04:18		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011973_120223.csv
+2022-02-21/19:04:18		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011974_120224.csv
+2022-02-21/19:04:18		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011975_120225.csv
+2022-02-21/19:04:18		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011976_120226.csv
+2022-02-21/19:04:18		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011977_120227.csv
+2022-02-21/19:04:18		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011978_120228.csv
+2022-02-21/19:04:18		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011979_120229.csv
+2022-02-21/19:04:18		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011980_120230.csv
+2022-02-21/19:04:18		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011981_120231.csv
+2022-02-21/19:04:18		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011982_120232.csv
+2022-02-21/19:04:18		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011983_120233.csv
+2022-02-21/19:04:18		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011984_120234.csv
+2022-02-21/19:04:18		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011985_120235.csv
+2022-02-21/19:04:18		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011986_120236.csv
+2022-02-21/19:04:18		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011987_120237.csv
+2022-02-21/19:04:18		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011988_120238.csv
+2022-02-21/19:04:18		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011989_120239.csv
+2022-02-21/19:04:18		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011990_120240.csv
+2022-02-21/19:04:18		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011991_120241.csv
+2022-02-21/19:04:18		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011992_120242.csv
+2022-02-21/19:04:18		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011993_120243.csv
+2022-02-21/19:04:18		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011994_120244.csv
+2022-02-21/19:04:18		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011995_120245.csv
+2022-02-21/19:04:18		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011996_120246.csv
+2022-02-21/19:04:18		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011997_120247.csv
+2022-02-21/19:04:18		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011998_120248.csv
+2022-02-21/19:04:18		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011999_120249.csv
+2022-02-21/19:04:18		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012000_120250.csv
+2022-02-21/19:04:18		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012001_120251.csv
+2022-02-21/19:04:18		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012002_120252.csv
+2022-02-21/19:04:18		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012003_120253.csv
+2022-02-21/19:04:18		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012004_120254.csv
+2022-02-21/19:04:18		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012005_120255.csv
+2022-02-21/19:04:18		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012006_120256.csv
+2022-02-21/19:04:18		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012007_120257.csv
+2022-02-21/19:04:18		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012008_120258.csv
+2022-02-21/19:04:18		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012009_120259.csv
+2022-02-21/19:23:01		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011960_120210.csv
+2022-02-21/19:23:01		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011961_120211.csv
+2022-02-21/19:23:01		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011962_120212.csv
+2022-02-21/19:23:01		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011963_120213.csv
+2022-02-21/19:23:01		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011964_120214.csv
+2022-02-21/19:23:01		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011965_120215.csv
+2022-02-21/19:23:01		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011966_120216.csv
+2022-02-21/19:23:01		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011967_120217.csv
+2022-02-21/19:23:01		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011968_120218.csv
+2022-02-21/19:23:01		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011969_120219.csv
+2022-02-21/19:23:01		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011970_120220.csv
+2022-02-21/19:23:01		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011971_120221.csv
+2022-02-21/19:23:01		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011972_120222.csv
+2022-02-21/19:23:01		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011973_120223.csv
+2022-02-21/19:23:01		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011974_120224.csv
+2022-02-21/19:23:01		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011975_120225.csv
+2022-02-21/19:23:01		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011976_120226.csv
+2022-02-21/19:23:01		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011977_120227.csv
+2022-02-21/19:23:01		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011978_120228.csv
+2022-02-21/19:23:01		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011979_120229.csv
+2022-02-21/19:23:01		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011980_120230.csv
+2022-02-21/19:23:01		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011981_120231.csv
+2022-02-21/19:23:01		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011982_120232.csv
+2022-02-21/19:23:01		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011983_120233.csv
+2022-02-21/19:23:01		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011984_120234.csv
+2022-02-21/19:23:01		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011985_120235.csv
+2022-02-21/19:23:01		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011986_120236.csv
+2022-02-21/19:23:01		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011987_120237.csv
+2022-02-21/19:23:01		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011988_120238.csv
+2022-02-21/19:23:01		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011989_120239.csv
+2022-02-21/19:23:01		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011990_120240.csv
+2022-02-21/19:23:01		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011991_120241.csv
+2022-02-21/19:23:01		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011992_120242.csv
+2022-02-21/19:23:01		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011993_120243.csv
+2022-02-21/19:23:01		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011994_120244.csv
+2022-02-21/19:23:01		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011995_120245.csv
+2022-02-21/19:23:01		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011996_120246.csv
+2022-02-21/19:23:01		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011997_120247.csv
+2022-02-21/19:23:01		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011998_120248.csv
+2022-02-21/19:23:01		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011999_120249.csv
+2022-02-21/19:23:01		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012000_120250.csv
+2022-02-21/19:23:01		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012001_120251.csv
+2022-02-21/19:23:01		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012002_120252.csv
+2022-02-21/19:23:01		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012003_120253.csv
+2022-02-21/19:23:01		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012004_120254.csv
+2022-02-21/19:23:01		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012005_120255.csv
+2022-02-21/19:23:02		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012006_120256.csv
+2022-02-21/19:23:02		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012007_120257.csv
+2022-02-21/19:23:02		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012008_120258.csv
+2022-02-21/19:23:02		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012009_120259.csv
+2022-02-21/19:26:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011960_120210.csv
+2022-02-21/19:26:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011961_120211.csv
+2022-02-21/19:26:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011962_120212.csv
+2022-02-21/19:26:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011963_120213.csv
+2022-02-21/19:26:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011964_120214.csv
+2022-02-21/19:26:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011965_120215.csv
+2022-02-21/19:26:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011966_120216.csv
+2022-02-21/19:26:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011967_120217.csv
+2022-02-21/19:26:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011968_120218.csv
+2022-02-21/19:26:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011969_120219.csv
+2022-02-21/19:26:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011970_120220.csv
+2022-02-21/19:26:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011971_120221.csv
+2022-02-21/19:26:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011972_120222.csv
+2022-02-21/19:26:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011973_120223.csv
+2022-02-21/19:26:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011974_120224.csv
+2022-02-21/19:26:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011975_120225.csv
+2022-02-21/19:26:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011976_120226.csv
+2022-02-21/19:26:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011977_120227.csv
+2022-02-21/19:26:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011978_120228.csv
+2022-02-21/19:26:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011979_120229.csv
+2022-02-21/19:26:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011980_120230.csv
+2022-02-21/19:26:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011981_120231.csv
+2022-02-21/19:26:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011982_120232.csv
+2022-02-21/19:26:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011983_120233.csv
+2022-02-21/19:26:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011984_120234.csv
+2022-02-21/19:26:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011985_120235.csv
+2022-02-21/19:26:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011986_120236.csv
+2022-02-21/19:26:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011987_120237.csv
+2022-02-21/19:26:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011988_120238.csv
+2022-02-21/19:26:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011989_120239.csv
+2022-02-21/19:26:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011990_120240.csv
+2022-02-21/19:26:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011991_120241.csv
+2022-02-21/19:26:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011992_120242.csv
+2022-02-21/19:26:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011993_120243.csv
+2022-02-21/19:26:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011994_120244.csv
+2022-02-21/19:26:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011995_120245.csv
+2022-02-21/19:26:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011996_120246.csv
+2022-02-21/19:26:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011997_120247.csv
+2022-02-21/19:26:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011998_120248.csv
+2022-02-21/19:26:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011999_120249.csv
+2022-02-21/19:26:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012000_120250.csv
+2022-02-21/19:26:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012001_120251.csv
+2022-02-21/19:26:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012002_120252.csv
+2022-02-21/19:26:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012003_120253.csv
+2022-02-21/19:26:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012004_120254.csv
+2022-02-21/19:26:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012005_120255.csv
+2022-02-21/19:26:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012006_120256.csv
+2022-02-21/19:26:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012007_120257.csv
+2022-02-21/19:26:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012008_120258.csv
+2022-02-21/19:26:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012009_120259.csv
+2022-02-21/19:27:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011960_120210.csv
+2022-02-21/19:27:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011961_120211.csv
+2022-02-21/19:27:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011962_120212.csv
+2022-02-21/19:27:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011963_120213.csv
+2022-02-21/19:27:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011964_120214.csv
+2022-02-21/19:27:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011965_120215.csv
+2022-02-21/19:27:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011966_120216.csv
+2022-02-21/19:27:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011967_120217.csv
+2022-02-21/19:27:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011968_120218.csv
+2022-02-21/19:27:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011969_120219.csv
+2022-02-21/19:27:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011970_120220.csv
+2022-02-21/19:27:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011971_120221.csv
+2022-02-21/19:27:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011972_120222.csv
+2022-02-21/19:27:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011973_120223.csv
+2022-02-21/19:27:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011974_120224.csv
+2022-02-21/19:27:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011975_120225.csv
+2022-02-21/19:27:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011976_120226.csv
+2022-02-21/19:27:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011977_120227.csv
+2022-02-21/19:27:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011978_120228.csv
+2022-02-21/19:27:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011979_120229.csv
+2022-02-21/19:27:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011980_120230.csv
+2022-02-21/19:27:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011981_120231.csv
+2022-02-21/19:27:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011982_120232.csv
+2022-02-21/19:27:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011983_120233.csv
+2022-02-21/19:27:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011984_120234.csv
+2022-02-21/19:27:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011985_120235.csv
+2022-02-21/19:27:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011986_120236.csv
+2022-02-21/19:27:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011987_120237.csv
+2022-02-21/19:27:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011988_120238.csv
+2022-02-21/19:27:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011989_120239.csv
+2022-02-21/19:27:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011990_120240.csv
+2022-02-21/19:27:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011991_120241.csv
+2022-02-21/19:27:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011992_120242.csv
+2022-02-21/19:27:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011993_120243.csv
+2022-02-21/19:27:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011994_120244.csv
+2022-02-21/19:27:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011995_120245.csv
+2022-02-21/19:27:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011996_120246.csv
+2022-02-21/19:27:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011997_120247.csv
+2022-02-21/19:27:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011998_120248.csv
+2022-02-21/19:27:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011999_120249.csv
+2022-02-21/19:27:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012000_120250.csv
+2022-02-21/19:27:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012001_120251.csv
+2022-02-21/19:27:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012002_120252.csv
+2022-02-21/19:27:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012003_120253.csv
+2022-02-21/19:27:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012004_120254.csv
+2022-02-21/19:27:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012005_120255.csv
+2022-02-21/19:27:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012006_120256.csv
+2022-02-21/19:27:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012007_120257.csv
+2022-02-21/19:27:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012008_120258.csv
+2022-02-21/19:27:50		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012009_120259.csv
+2022-02-21/20:20:41		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011960_120210.csv
+2022-02-21/20:20:41		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011961_120211.csv
+2022-02-21/20:20:42		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011962_120212.csv
+2022-02-21/20:20:42		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011963_120213.csv
+2022-02-21/20:20:42		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011964_120214.csv
+2022-02-21/20:20:42		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011965_120215.csv
+2022-02-21/20:20:42		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011966_120216.csv
+2022-02-21/20:20:42		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011967_120217.csv
+2022-02-21/20:20:42		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011968_120218.csv
+2022-02-21/20:20:42		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011969_120219.csv
+2022-02-21/20:20:42		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011970_120220.csv
+2022-02-21/20:20:42		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011971_120221.csv
+2022-02-21/20:20:42		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011972_120222.csv
+2022-02-21/20:20:42		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011973_120223.csv
+2022-02-21/20:20:42		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011974_120224.csv
+2022-02-21/20:20:42		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011975_120225.csv
+2022-02-21/20:20:42		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011976_120226.csv
+2022-02-21/20:20:42		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011977_120227.csv
+2022-02-21/20:20:42		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011978_120228.csv
+2022-02-21/20:20:42		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011979_120229.csv
+2022-02-21/20:20:42		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011980_120230.csv
+2022-02-21/20:20:42		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011981_120231.csv
+2022-02-21/20:20:42		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011982_120232.csv
+2022-02-21/20:20:42		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011983_120233.csv
+2022-02-21/20:20:42		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011984_120234.csv
+2022-02-21/20:20:42		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011985_120235.csv
+2022-02-21/20:20:42		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011986_120236.csv
+2022-02-21/20:20:42		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011987_120237.csv
+2022-02-21/20:20:42		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011988_120238.csv
+2022-02-21/20:20:42		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011989_120239.csv
+2022-02-21/20:20:42		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011990_120240.csv
+2022-02-21/20:20:42		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011991_120241.csv
+2022-02-21/20:20:42		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011992_120242.csv
+2022-02-21/20:20:42		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011993_120243.csv
+2022-02-21/20:20:42		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011994_120244.csv
+2022-02-21/20:20:42		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011995_120245.csv
+2022-02-21/20:20:42		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011996_120246.csv
+2022-02-21/20:20:42		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011997_120247.csv
+2022-02-21/20:20:42		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011998_120248.csv
+2022-02-21/20:20:42		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011999_120249.csv
+2022-02-21/20:20:42		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012000_120250.csv
+2022-02-21/20:20:42		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012001_120251.csv
+2022-02-21/20:20:42		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012002_120252.csv
+2022-02-21/20:20:42		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012003_120253.csv
+2022-02-21/20:20:42		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012004_120254.csv
+2022-02-21/20:20:42		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012005_120255.csv
+2022-02-21/20:20:42		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012006_120256.csv
+2022-02-21/20:20:42		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012007_120257.csv
+2022-02-21/20:20:42		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012008_120258.csv
+2022-02-21/20:20:42		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012009_120259.csv
+2022-02-21/20:21:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011960_120210.csv
+2022-02-21/20:21:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011961_120211.csv
+2022-02-21/20:21:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011962_120212.csv
+2022-02-21/20:21:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011963_120213.csv
+2022-02-21/20:21:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011964_120214.csv
+2022-02-21/20:21:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011965_120215.csv
+2022-02-21/20:21:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011966_120216.csv
+2022-02-21/20:21:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011967_120217.csv
+2022-02-21/20:21:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011968_120218.csv
+2022-02-21/20:21:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011969_120219.csv
+2022-02-21/20:21:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011970_120220.csv
+2022-02-21/20:21:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011971_120221.csv
+2022-02-21/20:21:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011972_120222.csv
+2022-02-21/20:21:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011973_120223.csv
+2022-02-21/20:21:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011974_120224.csv
+2022-02-21/20:21:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011975_120225.csv
+2022-02-21/20:21:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011976_120226.csv
+2022-02-21/20:21:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011977_120227.csv
+2022-02-21/20:21:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011978_120228.csv
+2022-02-21/20:21:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011979_120229.csv
+2022-02-21/20:21:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011980_120230.csv
+2022-02-21/20:21:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011981_120231.csv
+2022-02-21/20:21:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011982_120232.csv
+2022-02-21/20:21:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011983_120233.csv
+2022-02-21/20:21:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011984_120234.csv
+2022-02-21/20:21:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011985_120235.csv
+2022-02-21/20:21:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011986_120236.csv
+2022-02-21/20:21:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011987_120237.csv
+2022-02-21/20:21:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011988_120238.csv
+2022-02-21/20:21:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011989_120239.csv
+2022-02-21/20:21:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011990_120240.csv
+2022-02-21/20:21:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011991_120241.csv
+2022-02-21/20:21:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011992_120242.csv
+2022-02-21/20:21:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011993_120243.csv
+2022-02-21/20:21:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011994_120244.csv
+2022-02-21/20:21:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011995_120245.csv
+2022-02-21/20:21:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011996_120246.csv
+2022-02-21/20:21:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011997_120247.csv
+2022-02-21/20:21:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011998_120248.csv
+2022-02-21/20:21:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011999_120249.csv
+2022-02-21/20:21:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012000_120250.csv
+2022-02-21/20:21:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012001_120251.csv
+2022-02-21/20:21:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012002_120252.csv
+2022-02-21/20:21:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012003_120253.csv
+2022-02-21/20:21:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012004_120254.csv
+2022-02-21/20:21:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012005_120255.csv
+2022-02-21/20:21:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012006_120256.csv
+2022-02-21/20:21:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012007_120257.csv
+2022-02-21/20:21:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012008_120258.csv
+2022-02-21/20:21:29		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012009_120259.csv
+2022-02-21/20:23:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011960_120210.csv
+2022-02-21/20:23:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011961_120211.csv
+2022-02-21/20:23:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011962_120212.csv
+2022-02-21/20:23:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011963_120213.csv
+2022-02-21/20:23:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011964_120214.csv
+2022-02-21/20:23:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011965_120215.csv
+2022-02-21/20:23:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011966_120216.csv
+2022-02-21/20:23:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011967_120217.csv
+2022-02-21/20:23:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011968_120218.csv
+2022-02-21/20:23:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011969_120219.csv
+2022-02-21/20:23:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011970_120220.csv
+2022-02-21/20:23:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011971_120221.csv
+2022-02-21/20:23:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011972_120222.csv
+2022-02-21/20:23:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011973_120223.csv
+2022-02-21/20:23:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011974_120224.csv
+2022-02-21/20:23:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011975_120225.csv
+2022-02-21/20:23:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011976_120226.csv
+2022-02-21/20:23:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011977_120227.csv
+2022-02-21/20:23:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011978_120228.csv
+2022-02-21/20:23:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011979_120229.csv
+2022-02-21/20:23:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011980_120230.csv
+2022-02-21/20:23:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011981_120231.csv
+2022-02-21/20:23:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011982_120232.csv
+2022-02-21/20:23:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011983_120233.csv
+2022-02-21/20:23:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011984_120234.csv
+2022-02-21/20:23:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011985_120235.csv
+2022-02-21/20:23:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011986_120236.csv
+2022-02-21/20:23:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011987_120237.csv
+2022-02-21/20:23:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011988_120238.csv
+2022-02-21/20:23:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011989_120239.csv
+2022-02-21/20:23:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011990_120240.csv
+2022-02-21/20:23:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011991_120241.csv
+2022-02-21/20:23:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011992_120242.csv
+2022-02-21/20:23:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011993_120243.csv
+2022-02-21/20:23:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011994_120244.csv
+2022-02-21/20:23:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011995_120245.csv
+2022-02-21/20:23:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011996_120246.csv
+2022-02-21/20:23:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011997_120247.csv
+2022-02-21/20:23:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011998_120248.csv
+2022-02-21/20:23:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28011999_120249.csv
+2022-02-21/20:23:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012000_120250.csv
+2022-02-21/20:23:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012001_120251.csv
+2022-02-21/20:23:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012002_120252.csv
+2022-02-21/20:23:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012003_120253.csv
+2022-02-21/20:23:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012004_120254.csv
+2022-02-21/20:23:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012005_120255.csv
+2022-02-21/20:23:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012006_120256.csv
+2022-02-21/20:23:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012007_120257.csv
+2022-02-21/20:23:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012008_120258.csv
+2022-02-21/20:23:55		Invalid File Name!! File moved to Bad Raw Folder :: airQuality28012009_120259.csv
+2022-02-21/20:50:12		Error occured while validating FileName [Errno 13] Permission denied: 'Training_Batch_Files/.ipynb_checkpoints'
+2022-02-21/20:50:49		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011960_120210.csv
+2022-02-21/20:50:49		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011961_120211.csv
+2022-02-21/20:50:49		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011962_120212.csv
+2022-02-21/20:50:49		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011963_120213.csv
+2022-02-21/20:50:49		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011964_120214.csv
+2022-02-21/20:50:49		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011965_120215.csv
+2022-02-21/20:50:49		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011966_120216.csv
+2022-02-21/20:50:49		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011967_120217.csv
+2022-02-21/20:50:49		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011968_120218.csv
+2022-02-21/20:50:49		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011969_120219.csv
+2022-02-21/20:50:50		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011970_120220.csv
+2022-02-21/20:50:50		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011971_120221.csv
+2022-02-21/20:50:50		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011972_120222.csv
+2022-02-21/20:50:50		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011973_120223.csv
+2022-02-21/20:50:50		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011974_120224.csv
+2022-02-21/20:50:50		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011975_120225.csv
+2022-02-21/20:50:50		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011976_120226.csv
+2022-02-21/20:50:50		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011977_120227.csv
+2022-02-21/20:50:50		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011978_120228.csv
+2022-02-21/20:50:50		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011979_120229.csv
+2022-02-21/20:50:50		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011980_120230.csv
+2022-02-21/20:50:50		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011981_120231.csv
+2022-02-21/20:50:50		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011982_120232.csv
+2022-02-21/20:50:50		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011983_120233.csv
+2022-02-21/20:50:50		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011984_120234.csv
+2022-02-21/20:50:50		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011985_120235.csv
+2022-02-21/20:50:50		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011986_120236.csv
+2022-02-21/20:50:50		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011987_120237.csv
+2022-02-21/20:50:50		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011988_120238.csv
+2022-02-21/20:50:50		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011989_120239.csv
+2022-02-21/20:50:50		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011990_120240.csv
+2022-02-21/20:50:50		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011991_120241.csv
+2022-02-21/20:50:50		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011992_120242.csv
+2022-02-21/20:50:50		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011993_120243.csv
+2022-02-21/20:50:50		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011994_120244.csv
+2022-02-21/20:50:50		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011995_120245.csv
+2022-02-21/20:50:50		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011996_120246.csv
+2022-02-21/20:50:50		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011997_120247.csv
+2022-02-21/20:50:50		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011998_120248.csv
+2022-02-21/20:50:50		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011999_120249.csv
+2022-02-21/20:50:50		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012000_120250.csv
+2022-02-21/20:50:50		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012001_120251.csv
+2022-02-21/20:50:50		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012002_120252.csv
+2022-02-21/20:50:50		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012003_120253.csv
+2022-02-21/20:50:50		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012004_120254.csv
+2022-02-21/20:50:50		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012005_120255.csv
+2022-02-21/20:50:50		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012006_120256.csv
+2022-02-21/20:50:50		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012007_120257.csv
+2022-02-21/20:50:50		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012008_120258.csv
+2022-02-21/20:50:50		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012009_120259.csv
+2022-02-21/20:50:50		Invalid File Name!! File moved to Bad Raw Folder :: file_seperator.ipynb
+2022-02-21/20:55:25		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011960_120210.csv
+2022-02-21/20:55:25		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011961_120211.csv
+2022-02-21/20:55:25		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011962_120212.csv
+2022-02-21/20:55:25		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011963_120213.csv
+2022-02-21/20:55:25		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011964_120214.csv
+2022-02-21/20:55:25		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011965_120215.csv
+2022-02-21/20:55:26		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011966_120216.csv
+2022-02-21/20:55:26		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011967_120217.csv
+2022-02-21/20:55:27		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011968_120218.csv
+2022-02-21/20:55:27		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011969_120219.csv
+2022-02-21/20:55:27		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011970_120220.csv
+2022-02-21/20:55:27		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011971_120221.csv
+2022-02-21/20:55:28		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011972_120222.csv
+2022-02-21/20:55:28		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011973_120223.csv
+2022-02-21/20:55:28		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011974_120224.csv
+2022-02-21/20:55:28		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011975_120225.csv
+2022-02-21/20:55:28		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011976_120226.csv
+2022-02-21/20:55:29		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011977_120227.csv
+2022-02-21/20:55:29		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011978_120228.csv
+2022-02-21/20:55:29		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011979_120229.csv
+2022-02-21/20:55:29		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011980_120230.csv
+2022-02-21/20:55:29		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011981_120231.csv
+2022-02-21/20:55:29		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011982_120232.csv
+2022-02-21/20:55:29		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011983_120233.csv
+2022-02-21/20:55:29		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011984_120234.csv
+2022-02-21/20:55:29		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011985_120235.csv
+2022-02-21/20:55:29		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011986_120236.csv
+2022-02-21/20:55:29		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011987_120237.csv
+2022-02-21/20:55:29		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011988_120238.csv
+2022-02-21/20:55:29		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011989_120239.csv
+2022-02-21/20:55:29		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011990_120240.csv
+2022-02-21/20:55:29		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011991_120241.csv
+2022-02-21/20:55:29		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011992_120242.csv
+2022-02-21/20:55:29		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011993_120243.csv
+2022-02-21/20:55:29		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011994_120244.csv
+2022-02-21/20:55:29		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011995_120245.csv
+2022-02-21/20:55:29		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011996_120246.csv
+2022-02-21/20:55:29		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011997_120247.csv
+2022-02-21/20:55:29		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011998_120248.csv
+2022-02-21/20:55:29		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011999_120249.csv
+2022-02-21/20:55:29		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012000_120250.csv
+2022-02-21/20:55:29		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012001_120251.csv
+2022-02-21/20:55:29		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012002_120252.csv
+2022-02-21/20:55:29		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012003_120253.csv
+2022-02-21/20:55:29		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012004_120254.csv
+2022-02-21/20:55:29		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012005_120255.csv
+2022-02-21/20:55:29		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012006_120256.csv
+2022-02-21/20:55:29		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012007_120257.csv
+2022-02-21/20:55:29		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012008_120258.csv
+2022-02-21/20:55:29		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012009_120259.csv
+2022-02-21/20:55:29		Invalid File Name!! File moved to Bad Raw Folder :: file_seperator.ipynb
+2022-02-21/20:57:09		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011960_120210.csv
+2022-02-21/20:57:09		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011961_120211.csv
+2022-02-21/20:57:09		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011962_120212.csv
+2022-02-21/20:57:09		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011963_120213.csv
+2022-02-21/20:57:09		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011964_120214.csv
+2022-02-21/20:57:09		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011965_120215.csv
+2022-02-21/20:57:09		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011966_120216.csv
+2022-02-21/20:57:09		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011967_120217.csv
+2022-02-21/20:57:09		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011968_120218.csv
+2022-02-21/20:57:09		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011969_120219.csv
+2022-02-21/20:57:09		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011970_120220.csv
+2022-02-21/20:57:09		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011971_120221.csv
+2022-02-21/20:57:09		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011972_120222.csv
+2022-02-21/20:57:09		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011973_120223.csv
+2022-02-21/20:57:09		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011974_120224.csv
+2022-02-21/20:57:09		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011975_120225.csv
+2022-02-21/20:57:09		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011976_120226.csv
+2022-02-21/20:57:09		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011977_120227.csv
+2022-02-21/20:57:09		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011978_120228.csv
+2022-02-21/20:57:09		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011979_120229.csv
+2022-02-21/20:57:09		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011980_120230.csv
+2022-02-21/20:57:09		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011981_120231.csv
+2022-02-21/20:57:09		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011982_120232.csv
+2022-02-21/20:57:09		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011983_120233.csv
+2022-02-21/20:57:10		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011984_120234.csv
+2022-02-21/20:57:10		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011985_120235.csv
+2022-02-21/20:57:10		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011986_120236.csv
+2022-02-21/20:57:10		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011987_120237.csv
+2022-02-21/20:57:10		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011988_120238.csv
+2022-02-21/20:57:10		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011989_120239.csv
+2022-02-21/20:57:10		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011990_120240.csv
+2022-02-21/20:57:10		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011991_120241.csv
+2022-02-21/20:57:10		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011992_120242.csv
+2022-02-21/20:57:10		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011993_120243.csv
+2022-02-21/20:57:10		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011994_120244.csv
+2022-02-21/20:57:10		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011995_120245.csv
+2022-02-21/20:57:10		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011996_120246.csv
+2022-02-21/20:57:10		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011997_120247.csv
+2022-02-21/20:57:10		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011998_120248.csv
+2022-02-21/20:57:10		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011999_120249.csv
+2022-02-21/20:57:10		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012000_120250.csv
+2022-02-21/20:57:10		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012001_120251.csv
+2022-02-21/20:57:10		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012002_120252.csv
+2022-02-21/20:57:10		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012003_120253.csv
+2022-02-21/20:57:10		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012004_120254.csv
+2022-02-21/20:57:10		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012005_120255.csv
+2022-02-21/20:57:10		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012006_120256.csv
+2022-02-21/20:57:10		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012007_120257.csv
+2022-02-21/20:57:10		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012008_120258.csv
+2022-02-21/20:57:10		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012009_120259.csv
+2022-02-21/20:57:10		Invalid File Name!! File moved to Bad Raw Folder :: file_seperator.ipynb
+2022-02-21/22:12:32		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011960_120210.csv
+2022-02-21/22:12:32		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011961_120211.csv
+2022-02-21/22:12:32		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011962_120212.csv
+2022-02-21/22:12:32		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011963_120213.csv
+2022-02-21/22:12:32		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011964_120214.csv
+2022-02-21/22:12:32		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011965_120215.csv
+2022-02-21/22:12:32		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011966_120216.csv
+2022-02-21/22:12:32		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011967_120217.csv
+2022-02-21/22:12:32		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011968_120218.csv
+2022-02-21/22:12:32		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011969_120219.csv
+2022-02-21/22:12:32		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011970_120220.csv
+2022-02-21/22:12:32		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011971_120221.csv
+2022-02-21/22:12:32		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011972_120222.csv
+2022-02-21/22:12:32		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011973_120223.csv
+2022-02-21/22:12:32		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011974_120224.csv
+2022-02-21/22:12:32		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011975_120225.csv
+2022-02-21/22:12:32		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011976_120226.csv
+2022-02-21/22:12:32		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011977_120227.csv
+2022-02-21/22:12:33		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011978_120228.csv
+2022-02-21/22:12:33		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011979_120229.csv
+2022-02-21/22:12:33		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011980_120230.csv
+2022-02-21/22:12:33		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011981_120231.csv
+2022-02-21/22:12:33		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011982_120232.csv
+2022-02-21/22:12:33		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011983_120233.csv
+2022-02-21/22:12:33		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011984_120234.csv
+2022-02-21/22:12:33		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011985_120235.csv
+2022-02-21/22:12:33		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011986_120236.csv
+2022-02-21/22:12:33		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011987_120237.csv
+2022-02-21/22:12:33		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011988_120238.csv
+2022-02-21/22:12:33		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011989_120239.csv
+2022-02-21/22:12:33		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011990_120240.csv
+2022-02-21/22:12:33		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011991_120241.csv
+2022-02-21/22:12:33		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011992_120242.csv
+2022-02-21/22:12:33		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011993_120243.csv
+2022-02-21/22:12:33		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011994_120244.csv
+2022-02-21/22:12:33		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011995_120245.csv
+2022-02-21/22:12:33		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011996_120246.csv
+2022-02-21/22:12:33		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011997_120247.csv
+2022-02-21/22:12:33		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011998_120248.csv
+2022-02-21/22:12:33		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011999_120249.csv
+2022-02-21/22:12:33		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012000_120250.csv
+2022-02-21/22:12:33		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012001_120251.csv
+2022-02-21/22:12:33		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012002_120252.csv
+2022-02-21/22:12:33		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012003_120253.csv
+2022-02-21/22:12:33		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012004_120254.csv
+2022-02-21/22:12:34		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012005_120255.csv
+2022-02-21/22:12:34		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012006_120256.csv
+2022-02-21/22:12:34		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012007_120257.csv
+2022-02-21/22:12:34		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012008_120258.csv
+2022-02-21/22:12:34		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012009_120259.csv
+2022-02-21/22:19:54		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011960_120210.csv
+2022-02-21/22:19:54		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011961_120211.csv
+2022-02-21/22:19:55		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011962_120212.csv
+2022-02-21/22:19:55		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011963_120213.csv
+2022-02-21/22:19:56		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011964_120214.csv
+2022-02-21/22:19:56		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011965_120215.csv
+2022-02-21/22:19:56		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011966_120216.csv
+2022-02-21/22:19:57		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011967_120217.csv
+2022-02-21/22:19:57		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011968_120218.csv
+2022-02-21/22:19:57		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011969_120219.csv
+2022-02-21/22:19:58		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011970_120220.csv
+2022-02-21/22:19:59		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011971_120221.csv
+2022-02-21/22:19:59		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011972_120222.csv
+2022-02-21/22:19:59		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011973_120223.csv
+2022-02-21/22:20:00		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011974_120224.csv
+2022-02-21/22:20:00		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011975_120225.csv
+2022-02-21/22:20:01		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011976_120226.csv
+2022-02-21/22:20:01		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011977_120227.csv
+2022-02-21/22:20:02		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011978_120228.csv
+2022-02-21/22:20:03		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011979_120229.csv
+2022-02-21/22:20:03		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011980_120230.csv
+2022-02-21/22:20:04		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011981_120231.csv
+2022-02-21/22:20:04		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011982_120232.csv
+2022-02-21/22:20:05		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011983_120233.csv
+2022-02-21/22:20:05		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011984_120234.csv
+2022-02-21/22:20:05		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011985_120235.csv
+2022-02-21/22:20:05		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011986_120236.csv
+2022-02-21/22:20:06		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011987_120237.csv
+2022-02-21/22:20:06		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011988_120238.csv
+2022-02-21/22:20:06		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011989_120239.csv
+2022-02-21/22:20:06		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011990_120240.csv
+2022-02-21/22:20:06		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011991_120241.csv
+2022-02-21/22:20:06		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011992_120242.csv
+2022-02-21/22:20:06		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011993_120243.csv
+2022-02-21/22:20:07		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011994_120244.csv
+2022-02-21/22:20:07		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011995_120245.csv
+2022-02-21/22:20:08		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011996_120246.csv
+2022-02-21/22:20:08		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011997_120247.csv
+2022-02-21/22:20:08		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011998_120248.csv
+2022-02-21/22:20:09		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011999_120249.csv
+2022-02-21/22:20:09		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012000_120250.csv
+2022-02-21/22:20:09		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012001_120251.csv
+2022-02-21/22:20:09		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012002_120252.csv
+2022-02-21/22:20:09		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012003_120253.csv
+2022-02-21/22:20:09		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012004_120254.csv
+2022-02-21/22:20:09		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012005_120255.csv
+2022-02-21/22:20:09		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012006_120256.csv
+2022-02-21/22:20:09		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012007_120257.csv
+2022-02-21/22:20:09		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012008_120258.csv
+2022-02-21/22:20:09		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012009_120259.csv
+2022-02-21/22:21:39		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011960_120210.csv
+2022-02-21/22:21:40		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011961_120211.csv
+2022-02-21/22:21:40		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011962_120212.csv
+2022-02-21/22:21:40		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011963_120213.csv
+2022-02-21/22:21:41		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011964_120214.csv
+2022-02-21/22:21:41		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011965_120215.csv
+2022-02-21/22:21:41		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011966_120216.csv
+2022-02-21/22:21:41		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011967_120217.csv
+2022-02-21/22:21:41		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011968_120218.csv
+2022-02-21/22:21:41		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011969_120219.csv
+2022-02-21/22:21:41		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011970_120220.csv
+2022-02-21/22:21:41		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011971_120221.csv
+2022-02-21/22:21:41		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011972_120222.csv
+2022-02-21/22:21:41		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011973_120223.csv
+2022-02-21/22:21:41		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011974_120224.csv
+2022-02-21/22:21:41		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011975_120225.csv
+2022-02-21/22:21:41		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011976_120226.csv
+2022-02-21/22:21:41		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011977_120227.csv
+2022-02-21/22:21:41		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011978_120228.csv
+2022-02-21/22:21:41		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011979_120229.csv
+2022-02-21/22:21:41		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011980_120230.csv
+2022-02-21/22:21:41		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011981_120231.csv
+2022-02-21/22:21:41		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011982_120232.csv
+2022-02-21/22:21:41		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011983_120233.csv
+2022-02-21/22:21:41		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011984_120234.csv
+2022-02-21/22:21:41		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011985_120235.csv
+2022-02-21/22:21:41		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011986_120236.csv
+2022-02-21/22:21:41		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011987_120237.csv
+2022-02-21/22:21:41		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011988_120238.csv
+2022-02-21/22:21:41		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011989_120239.csv
+2022-02-21/22:21:41		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011990_120240.csv
+2022-02-21/22:21:41		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011991_120241.csv
+2022-02-21/22:21:41		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011992_120242.csv
+2022-02-21/22:21:41		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011993_120243.csv
+2022-02-21/22:21:41		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011994_120244.csv
+2022-02-21/22:21:41		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011995_120245.csv
+2022-02-21/22:21:41		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011996_120246.csv
+2022-02-21/22:21:41		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011997_120247.csv
+2022-02-21/22:21:41		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011998_120248.csv
+2022-02-21/22:21:41		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011999_120249.csv
+2022-02-21/22:21:41		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012000_120250.csv
+2022-02-21/22:21:41		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012001_120251.csv
+2022-02-21/22:21:41		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012002_120252.csv
+2022-02-21/22:21:41		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012003_120253.csv
+2022-02-21/22:21:41		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012004_120254.csv
+2022-02-21/22:21:41		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012005_120255.csv
+2022-02-21/22:21:41		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012006_120256.csv
+2022-02-21/22:21:41		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012007_120257.csv
+2022-02-21/22:21:41		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012008_120258.csv
+2022-02-21/22:21:41		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012009_120259.csv
+2022-02-21/22:24:39		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011960_120210.csv
+2022-02-21/22:24:39		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011961_120211.csv
+2022-02-21/22:24:39		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011962_120212.csv
+2022-02-21/22:24:39		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011963_120213.csv
+2022-02-21/22:24:39		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011964_120214.csv
+2022-02-21/22:24:39		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011965_120215.csv
+2022-02-21/22:24:39		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011966_120216.csv
+2022-02-21/22:24:39		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011967_120217.csv
+2022-02-21/22:24:39		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011968_120218.csv
+2022-02-21/22:24:39		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011969_120219.csv
+2022-02-21/22:24:39		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011970_120220.csv
+2022-02-21/22:24:39		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011971_120221.csv
+2022-02-21/22:24:39		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011972_120222.csv
+2022-02-21/22:24:39		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011973_120223.csv
+2022-02-21/22:24:39		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011974_120224.csv
+2022-02-21/22:24:39		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011975_120225.csv
+2022-02-21/22:24:39		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011976_120226.csv
+2022-02-21/22:24:39		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011977_120227.csv
+2022-02-21/22:24:39		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011978_120228.csv
+2022-02-21/22:24:39		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011979_120229.csv
+2022-02-21/22:24:39		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011980_120230.csv
+2022-02-21/22:24:39		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011981_120231.csv
+2022-02-21/22:24:39		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011982_120232.csv
+2022-02-21/22:24:39		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011983_120233.csv
+2022-02-21/22:24:39		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011984_120234.csv
+2022-02-21/22:24:39		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011985_120235.csv
+2022-02-21/22:24:39		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011986_120236.csv
+2022-02-21/22:24:39		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011987_120237.csv
+2022-02-21/22:24:39		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011988_120238.csv
+2022-02-21/22:24:39		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011989_120239.csv
+2022-02-21/22:24:39		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011990_120240.csv
+2022-02-21/22:24:39		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011991_120241.csv
+2022-02-21/22:24:39		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011992_120242.csv
+2022-02-21/22:24:39		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011993_120243.csv
+2022-02-21/22:24:39		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011994_120244.csv
+2022-02-21/22:24:39		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011995_120245.csv
+2022-02-21/22:24:39		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011996_120246.csv
+2022-02-21/22:24:39		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011997_120247.csv
+2022-02-21/22:24:39		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011998_120248.csv
+2022-02-21/22:24:39		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011999_120249.csv
+2022-02-21/22:24:39		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012000_120250.csv
+2022-02-21/22:24:39		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012001_120251.csv
+2022-02-21/22:24:39		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012002_120252.csv
+2022-02-21/22:24:39		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012003_120253.csv
+2022-02-21/22:24:39		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012004_120254.csv
+2022-02-21/22:24:39		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012005_120255.csv
+2022-02-21/22:24:39		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012006_120256.csv
+2022-02-21/22:24:39		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012007_120257.csv
+2022-02-21/22:24:39		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012008_120258.csv
+2022-02-21/22:24:39		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012009_120259.csv
+2022-02-21/22:28:00		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011960_120210.csv
+2022-02-21/22:28:00		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011961_120211.csv
+2022-02-21/22:28:00		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011962_120212.csv
+2022-02-21/22:28:00		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011963_120213.csv
+2022-02-21/22:28:00		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011964_120214.csv
+2022-02-21/22:28:00		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011965_120215.csv
+2022-02-21/22:28:00		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011966_120216.csv
+2022-02-21/22:28:00		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011967_120217.csv
+2022-02-21/22:28:00		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011968_120218.csv
+2022-02-21/22:28:00		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011969_120219.csv
+2022-02-21/22:28:00		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011970_120220.csv
+2022-02-21/22:28:00		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011971_120221.csv
+2022-02-21/22:28:00		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011972_120222.csv
+2022-02-21/22:28:00		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011973_120223.csv
+2022-02-21/22:28:00		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011974_120224.csv
+2022-02-21/22:28:00		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011975_120225.csv
+2022-02-21/22:28:00		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011976_120226.csv
+2022-02-21/22:28:00		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011977_120227.csv
+2022-02-21/22:28:00		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011978_120228.csv
+2022-02-21/22:28:00		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011979_120229.csv
+2022-02-21/22:28:00		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011980_120230.csv
+2022-02-21/22:28:00		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011981_120231.csv
+2022-02-21/22:28:00		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011982_120232.csv
+2022-02-21/22:28:00		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011983_120233.csv
+2022-02-21/22:28:00		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011984_120234.csv
+2022-02-21/22:28:00		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011985_120235.csv
+2022-02-21/22:28:00		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011986_120236.csv
+2022-02-21/22:28:00		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011987_120237.csv
+2022-02-21/22:28:00		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011988_120238.csv
+2022-02-21/22:28:00		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011989_120239.csv
+2022-02-21/22:28:00		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011990_120240.csv
+2022-02-21/22:28:00		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011991_120241.csv
+2022-02-21/22:28:00		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011992_120242.csv
+2022-02-21/22:28:00		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011993_120243.csv
+2022-02-21/22:28:00		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011994_120244.csv
+2022-02-21/22:28:00		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011995_120245.csv
+2022-02-21/22:28:00		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011996_120246.csv
+2022-02-21/22:28:00		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011997_120247.csv
+2022-02-21/22:28:00		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011998_120248.csv
+2022-02-21/22:28:00		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011999_120249.csv
+2022-02-21/22:28:00		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012000_120250.csv
+2022-02-21/22:28:00		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012001_120251.csv
+2022-02-21/22:28:00		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012002_120252.csv
+2022-02-21/22:28:00		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012003_120253.csv
+2022-02-21/22:28:00		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012004_120254.csv
+2022-02-21/22:28:00		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012005_120255.csv
+2022-02-21/22:28:00		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012006_120256.csv
+2022-02-21/22:28:00		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012007_120257.csv
+2022-02-21/22:28:00		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012008_120258.csv
+2022-02-21/22:28:00		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012009_120259.csv
+2022-02-21/22:31:26		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011960_120210.csv
+2022-02-21/22:31:26		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011961_120211.csv
+2022-02-21/22:31:26		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011962_120212.csv
+2022-02-21/22:31:26		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011963_120213.csv
+2022-02-21/22:31:26		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011964_120214.csv
+2022-02-21/22:31:26		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011965_120215.csv
+2022-02-21/22:31:26		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011966_120216.csv
+2022-02-21/22:31:26		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011967_120217.csv
+2022-02-21/22:31:26		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011968_120218.csv
+2022-02-21/22:31:26		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011969_120219.csv
+2022-02-21/22:31:26		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011970_120220.csv
+2022-02-21/22:31:26		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011971_120221.csv
+2022-02-21/22:31:26		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011972_120222.csv
+2022-02-21/22:31:26		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011973_120223.csv
+2022-02-21/22:31:26		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011974_120224.csv
+2022-02-21/22:31:26		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011975_120225.csv
+2022-02-21/22:31:26		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011976_120226.csv
+2022-02-21/22:31:26		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011977_120227.csv
+2022-02-21/22:31:26		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011978_120228.csv
+2022-02-21/22:31:26		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011979_120229.csv
+2022-02-21/22:31:26		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011980_120230.csv
+2022-02-21/22:31:26		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011981_120231.csv
+2022-02-21/22:31:26		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011982_120232.csv
+2022-02-21/22:31:26		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011983_120233.csv
+2022-02-21/22:31:26		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011984_120234.csv
+2022-02-21/22:31:26		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011985_120235.csv
+2022-02-21/22:31:26		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011986_120236.csv
+2022-02-21/22:31:26		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011987_120237.csv
+2022-02-21/22:31:26		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011988_120238.csv
+2022-02-21/22:31:26		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011989_120239.csv
+2022-02-21/22:31:26		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011990_120240.csv
+2022-02-21/22:31:26		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011991_120241.csv
+2022-02-21/22:31:26		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011992_120242.csv
+2022-02-21/22:31:26		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011993_120243.csv
+2022-02-21/22:31:26		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011994_120244.csv
+2022-02-21/22:31:26		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011995_120245.csv
+2022-02-21/22:31:26		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011996_120246.csv
+2022-02-21/22:31:26		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011997_120247.csv
+2022-02-21/22:31:26		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011998_120248.csv
+2022-02-21/22:31:26		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011999_120249.csv
+2022-02-21/22:31:26		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012000_120250.csv
+2022-02-21/22:31:26		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012001_120251.csv
+2022-02-21/22:31:26		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012002_120252.csv
+2022-02-21/22:31:26		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012003_120253.csv
+2022-02-21/22:31:27		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012004_120254.csv
+2022-02-21/22:31:27		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012005_120255.csv
+2022-02-21/22:31:27		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012006_120256.csv
+2022-02-21/22:31:27		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012007_120257.csv
+2022-02-21/22:31:27		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012008_120258.csv
+2022-02-21/22:31:27		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012009_120259.csv
+2022-02-22/13:57:06		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011960_120210.csv
+2022-02-22/13:57:06		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011961_120211.csv
+2022-02-22/13:57:08		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011962_120212.csv
+2022-02-22/13:57:08		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011963_120213.csv
+2022-02-22/13:57:08		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011964_120214.csv
+2022-02-22/13:57:08		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011965_120215.csv
+2022-02-22/13:57:08		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011966_120216.csv
+2022-02-22/13:57:08		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011967_120217.csv
+2022-02-22/13:57:09		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011968_120218.csv
+2022-02-22/13:57:09		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011969_120219.csv
+2022-02-22/13:57:09		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011970_120220.csv
+2022-02-22/13:57:09		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011971_120221.csv
+2022-02-22/13:57:10		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011972_120222.csv
+2022-02-22/13:57:10		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011973_120223.csv
+2022-02-22/13:57:10		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011974_120224.csv
+2022-02-22/13:57:10		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011975_120225.csv
+2022-02-22/13:57:10		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011976_120226.csv
+2022-02-22/13:57:10		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011977_120227.csv
+2022-02-22/13:57:10		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011978_120228.csv
+2022-02-22/13:57:10		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011979_120229.csv
+2022-02-22/13:57:10		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011980_120230.csv
+2022-02-22/13:57:10		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011981_120231.csv
+2022-02-22/13:57:10		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011982_120232.csv
+2022-02-22/13:57:11		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011983_120233.csv
+2022-02-22/13:57:11		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011984_120234.csv
+2022-02-22/13:57:11		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011985_120235.csv
+2022-02-22/13:57:11		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011986_120236.csv
+2022-02-22/13:57:11		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011987_120237.csv
+2022-02-22/13:57:11		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011988_120238.csv
+2022-02-22/13:57:12		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011989_120239.csv
+2022-02-22/13:57:12		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011990_120240.csv
+2022-02-22/13:57:12		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011991_120241.csv
+2022-02-22/13:57:12		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011992_120242.csv
+2022-02-22/13:57:12		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011993_120243.csv
+2022-02-22/13:57:12		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011994_120244.csv
+2022-02-22/13:57:12		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011995_120245.csv
+2022-02-22/13:57:12		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011996_120246.csv
+2022-02-22/13:57:13		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011997_120247.csv
+2022-02-22/13:57:13		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011998_120248.csv
+2022-02-22/13:57:13		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011999_120249.csv
+2022-02-22/13:57:13		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012000_120250.csv
+2022-02-22/13:57:13		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012001_120251.csv
+2022-02-22/13:57:14		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012002_120252.csv
+2022-02-22/13:57:14		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012003_120253.csv
+2022-02-22/13:57:14		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012004_120254.csv
+2022-02-22/13:57:14		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012005_120255.csv
+2022-02-22/13:57:14		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012006_120256.csv
+2022-02-22/13:57:14		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012007_120257.csv
+2022-02-22/13:57:14		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012008_120258.csv
+2022-02-22/13:57:15		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012009_120259.csv
+2022-02-22/13:57:32		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011960_120210.csv
+2022-02-22/13:57:32		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011961_120211.csv
+2022-02-22/13:57:32		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011962_120212.csv
+2022-02-22/13:57:32		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011963_120213.csv
+2022-02-22/13:57:32		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011964_120214.csv
+2022-02-22/13:57:32		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011965_120215.csv
+2022-02-22/13:57:32		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011966_120216.csv
+2022-02-22/13:57:32		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011967_120217.csv
+2022-02-22/13:57:32		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011968_120218.csv
+2022-02-22/13:57:32		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011969_120219.csv
+2022-02-22/13:57:32		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011970_120220.csv
+2022-02-22/13:57:32		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011971_120221.csv
+2022-02-22/13:57:32		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011972_120222.csv
+2022-02-22/13:57:32		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011973_120223.csv
+2022-02-22/13:57:32		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011974_120224.csv
+2022-02-22/13:57:32		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011975_120225.csv
+2022-02-22/13:57:32		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011976_120226.csv
+2022-02-22/13:57:32		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011977_120227.csv
+2022-02-22/13:57:32		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011978_120228.csv
+2022-02-22/13:57:32		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011979_120229.csv
+2022-02-22/13:57:32		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011980_120230.csv
+2022-02-22/13:57:32		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011981_120231.csv
+2022-02-22/13:57:32		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011982_120232.csv
+2022-02-22/13:57:32		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011983_120233.csv
+2022-02-22/13:57:32		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011984_120234.csv
+2022-02-22/13:57:32		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011985_120235.csv
+2022-02-22/13:57:32		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011986_120236.csv
+2022-02-22/13:57:32		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011987_120237.csv
+2022-02-22/13:57:32		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011988_120238.csv
+2022-02-22/13:57:32		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011989_120239.csv
+2022-02-22/13:57:32		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011990_120240.csv
+2022-02-22/13:57:32		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011991_120241.csv
+2022-02-22/13:57:32		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011992_120242.csv
+2022-02-22/13:57:32		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011993_120243.csv
+2022-02-22/13:57:32		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011994_120244.csv
+2022-02-22/13:57:32		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011995_120245.csv
+2022-02-22/13:57:32		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011996_120246.csv
+2022-02-22/13:57:32		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011997_120247.csv
+2022-02-22/13:57:32		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011998_120248.csv
+2022-02-22/13:57:32		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011999_120249.csv
+2022-02-22/13:57:32		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012000_120250.csv
+2022-02-22/13:57:32		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012001_120251.csv
+2022-02-22/13:57:32		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012002_120252.csv
+2022-02-22/13:57:32		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012003_120253.csv
+2022-02-22/13:57:32		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012004_120254.csv
+2022-02-22/13:57:32		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012005_120255.csv
+2022-02-22/13:57:32		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012006_120256.csv
+2022-02-22/13:57:32		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012007_120257.csv
+2022-02-22/13:57:32		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012008_120258.csv
+2022-02-22/13:57:32		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012009_120259.csv
+2022-02-22/14:02:17		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011960_120210.csv
+2022-02-22/14:02:17		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011961_120211.csv
+2022-02-22/14:02:17		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011962_120212.csv
+2022-02-22/14:02:17		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011963_120213.csv
+2022-02-22/14:02:17		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011964_120214.csv
+2022-02-22/14:02:18		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011965_120215.csv
+2022-02-22/14:02:18		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011966_120216.csv
+2022-02-22/14:02:18		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011967_120217.csv
+2022-02-22/14:02:18		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011968_120218.csv
+2022-02-22/14:02:18		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011969_120219.csv
+2022-02-22/14:02:18		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011970_120220.csv
+2022-02-22/14:02:18		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011971_120221.csv
+2022-02-22/14:02:18		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011972_120222.csv
+2022-02-22/14:02:18		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011973_120223.csv
+2022-02-22/14:02:18		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011974_120224.csv
+2022-02-22/14:02:18		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011975_120225.csv
+2022-02-22/14:02:18		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011976_120226.csv
+2022-02-22/14:02:18		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011977_120227.csv
+2022-02-22/14:02:18		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011978_120228.csv
+2022-02-22/14:02:19		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011979_120229.csv
+2022-02-22/14:02:19		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011980_120230.csv
+2022-02-22/14:02:19		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011981_120231.csv
+2022-02-22/14:02:19		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011982_120232.csv
+2022-02-22/14:02:19		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011983_120233.csv
+2022-02-22/14:02:19		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011984_120234.csv
+2022-02-22/14:02:19		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011985_120235.csv
+2022-02-22/14:02:19		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011986_120236.csv
+2022-02-22/14:02:19		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011987_120237.csv
+2022-02-22/14:02:19		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011988_120238.csv
+2022-02-22/14:02:19		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011989_120239.csv
+2022-02-22/14:02:19		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011990_120240.csv
+2022-02-22/14:02:19		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011991_120241.csv
+2022-02-22/14:02:19		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011992_120242.csv
+2022-02-22/14:02:19		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011993_120243.csv
+2022-02-22/14:02:19		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011994_120244.csv
+2022-02-22/14:02:19		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011995_120245.csv
+2022-02-22/14:02:20		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011996_120246.csv
+2022-02-22/14:02:20		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011997_120247.csv
+2022-02-22/14:02:20		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011998_120248.csv
+2022-02-22/14:02:20		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011999_120249.csv
+2022-02-22/14:02:20		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012000_120250.csv
+2022-02-22/14:02:20		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012001_120251.csv
+2022-02-22/14:02:20		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012002_120252.csv
+2022-02-22/14:02:20		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012003_120253.csv
+2022-02-22/14:02:20		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012004_120254.csv
+2022-02-22/14:02:20		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012005_120255.csv
+2022-02-22/14:02:20		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012006_120256.csv
+2022-02-22/14:02:20		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012007_120257.csv
+2022-02-22/14:02:20		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012008_120258.csv
+2022-02-22/14:02:20		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012009_120259.csv
+2022-02-22/14:04:29		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011960_120210.csv
+2022-02-22/14:04:29		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011961_120211.csv
+2022-02-22/14:04:29		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011962_120212.csv
+2022-02-22/14:04:29		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011963_120213.csv
+2022-02-22/14:04:29		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011964_120214.csv
+2022-02-22/14:04:29		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011965_120215.csv
+2022-02-22/14:04:29		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011966_120216.csv
+2022-02-22/14:04:29		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011967_120217.csv
+2022-02-22/14:04:29		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011968_120218.csv
+2022-02-22/14:04:29		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011969_120219.csv
+2022-02-22/14:04:29		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011970_120220.csv
+2022-02-22/14:04:29		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011971_120221.csv
+2022-02-22/14:04:29		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011972_120222.csv
+2022-02-22/14:04:29		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011973_120223.csv
+2022-02-22/14:04:29		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011974_120224.csv
+2022-02-22/14:04:29		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011975_120225.csv
+2022-02-22/14:04:29		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011976_120226.csv
+2022-02-22/14:04:29		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011977_120227.csv
+2022-02-22/14:04:29		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011978_120228.csv
+2022-02-22/14:04:29		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011979_120229.csv
+2022-02-22/14:04:29		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011980_120230.csv
+2022-02-22/14:04:29		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011981_120231.csv
+2022-02-22/14:04:29		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011982_120232.csv
+2022-02-22/14:04:29		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011983_120233.csv
+2022-02-22/14:04:29		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011984_120234.csv
+2022-02-22/14:04:29		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011985_120235.csv
+2022-02-22/14:04:29		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011986_120236.csv
+2022-02-22/14:04:29		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011987_120237.csv
+2022-02-22/14:04:29		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011988_120238.csv
+2022-02-22/14:04:29		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011989_120239.csv
+2022-02-22/14:04:29		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011990_120240.csv
+2022-02-22/14:04:29		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011991_120241.csv
+2022-02-22/14:04:29		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011992_120242.csv
+2022-02-22/14:04:29		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011993_120243.csv
+2022-02-22/14:04:29		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011994_120244.csv
+2022-02-22/14:04:29		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011995_120245.csv
+2022-02-22/14:04:29		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011996_120246.csv
+2022-02-22/14:04:29		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011997_120247.csv
+2022-02-22/14:04:29		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011998_120248.csv
+2022-02-22/14:04:29		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011999_120249.csv
+2022-02-22/14:04:29		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012000_120250.csv
+2022-02-22/14:04:29		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012001_120251.csv
+2022-02-22/14:04:29		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012002_120252.csv
+2022-02-22/14:04:29		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012003_120253.csv
+2022-02-22/14:04:29		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012004_120254.csv
+2022-02-22/14:04:29		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012005_120255.csv
+2022-02-22/14:04:29		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012006_120256.csv
+2022-02-22/14:04:29		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012007_120257.csv
+2022-02-22/14:04:29		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012008_120258.csv
+2022-02-22/14:04:29		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012009_120259.csv
+2022-02-22/17:26:48		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011960_120210.csv
+2022-02-22/17:26:48		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011961_120211.csv
+2022-02-22/17:26:48		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011962_120212.csv
+2022-02-22/17:26:48		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011963_120213.csv
+2022-02-22/17:26:48		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011964_120214.csv
+2022-02-22/17:26:48		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011965_120215.csv
+2022-02-22/17:26:48		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011966_120216.csv
+2022-02-22/17:26:48		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011967_120217.csv
+2022-02-22/17:26:48		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011968_120218.csv
+2022-02-22/17:26:48		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011969_120219.csv
+2022-02-22/17:26:48		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011970_120220.csv
+2022-02-22/17:26:48		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011971_120221.csv
+2022-02-22/17:26:48		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011972_120222.csv
+2022-02-22/17:26:48		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011973_120223.csv
+2022-02-22/17:26:48		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011974_120224.csv
+2022-02-22/17:26:48		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011975_120225.csv
+2022-02-22/17:26:48		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011976_120226.csv
+2022-02-22/17:26:49		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011977_120227.csv
+2022-02-22/17:26:49		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011978_120228.csv
+2022-02-22/17:26:49		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011979_120229.csv
+2022-02-22/17:26:49		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011980_120230.csv
+2022-02-22/17:26:49		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011981_120231.csv
+2022-02-22/17:26:49		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011982_120232.csv
+2022-02-22/17:26:49		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011983_120233.csv
+2022-02-22/17:26:49		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011984_120234.csv
+2022-02-22/17:26:49		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011985_120235.csv
+2022-02-22/17:26:49		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011986_120236.csv
+2022-02-22/17:26:49		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011987_120237.csv
+2022-02-22/17:26:49		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011988_120238.csv
+2022-02-22/17:26:49		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011989_120239.csv
+2022-02-22/17:26:49		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011990_120240.csv
+2022-02-22/17:26:49		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011991_120241.csv
+2022-02-22/17:26:49		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011992_120242.csv
+2022-02-22/17:26:49		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011993_120243.csv
+2022-02-22/17:26:49		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011994_120244.csv
+2022-02-22/17:26:49		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011995_120245.csv
+2022-02-22/17:26:49		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011996_120246.csv
+2022-02-22/17:26:49		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011997_120247.csv
+2022-02-22/17:26:49		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011998_120248.csv
+2022-02-22/17:26:49		Valid File name!! File moved to GoodRaw Folder :: airQuality_28011999_120249.csv
+2022-02-22/17:26:49		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012000_120250.csv
+2022-02-22/17:26:49		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012001_120251.csv
+2022-02-22/17:26:49		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012002_120252.csv
+2022-02-22/17:26:49		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012003_120253.csv
+2022-02-22/17:26:49		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012004_120254.csv
+2022-02-22/17:26:49		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012005_120255.csv
+2022-02-22/17:26:49		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012006_120256.csv
+2022-02-22/17:26:49		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012007_120257.csv
+2022-02-22/17:26:49		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012008_120258.csv
+2022-02-22/17:26:49		Valid File name!! File moved to GoodRaw Folder :: airQuality_28012009_120259.csv
