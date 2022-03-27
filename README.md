@@ -5,9 +5,8 @@
 
 #### Problem Statement:
     
-    To build a classification methodology to 
+    To build a classification methodology to find the quality of air in different areas.
     
-    The inputs of various sensors for different wafers have been provided.
     The goal is to build a machine learning model which predicts whether a person will pay the credit card bill  or not
     based on the inputs from various parameters.
     There are two classes: 1 and 0.
